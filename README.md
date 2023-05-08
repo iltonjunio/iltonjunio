@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**iltonjunio/iltonjunio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+iltonjunio/LEIA-ME .md
+
+
+- Ola sou Ilton Junio Caetano de Souza vogado
+- Atualmente trabalho em:
+- Estou Aprendedo:
+    front-end, html5, css3, javascript.
+- Altualmente desenvolvo:
+    Frontend com html,css,javascript, com bootstrap, sites, leadpages.
+- Contatos:
+- ilton16@hotmail.com
+- https://www.linkedin.com/in/ilton-j%C3%BAnio-caetano-de-souza-4a347b126/
+
+
